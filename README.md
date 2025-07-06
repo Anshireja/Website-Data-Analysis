@@ -38,7 +38,8 @@ This project analyzes the performance of a website using various metrics and vis
 2. **Install the required dependencies:**
     ```bash
    pip install pandas matplotlib seaborn
-3.**Open the notebook:**
+3.**Open the notebook**
+
 4.**Run the cells step by step to reproduce the analysis.**
 
 
