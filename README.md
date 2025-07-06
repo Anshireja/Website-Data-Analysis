@@ -1,3 +1,5 @@
+https://github.com/Anshireja/Website-Data-Analysis/blob/87b8f97bd531b75dc9122a408dc44bc0697ef7eb/Screenshot%202025-07-06%20232555.png
+
 # 📈 Website Performance Analysis
 
 This project analyzes the performance of a website using various metrics and visualization techniques. The goal is to understand website load times, performance bottlenecks, and optimize the overall user experience.
